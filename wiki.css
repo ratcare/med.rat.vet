@@ -34,7 +34,7 @@
 
 /* links inside navbar */
 .mininav a {
-  float: right;
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 10px 12px;
