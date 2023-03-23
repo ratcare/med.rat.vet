@@ -27,7 +27,7 @@
 
 /* color of the topnav bar */
 .mininav {
-  background-color: #5b27a8;
+  background-color: #3c1575;
   overflow: hidden;
 }
 
@@ -36,7 +36,7 @@
   float: right;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 12px;
   text-decoration: none;
   font-size: 14px;
   font-family: Arial, sans-serif;
