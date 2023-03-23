@@ -49,22 +49,22 @@
 }
 
 /* search */
-.topnav .search-container {
+.mininav .search-container {
   float: right;
 }
 
-.topnav .search-container button:hover {
+.mininav .search-container button:hover {
   background: #ccc;
 }
 
-.topnav input[type=text] {
+.mininav input[type=text] {
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
   border: none;
 }
 
-.topnav .search-container button {
+.mininav .search-container button {
   float: right;
   padding: 6px 10px;
   margin-top: 8px;
