@@ -23,6 +23,7 @@
 /* padded page content to match the topnav */
 .page {
   padding-left: 3px;
+  font-family: Arial, sans-serif;
 }
 
 /* color of the topnav bar */
