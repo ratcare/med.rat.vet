@@ -53,10 +53,6 @@
   float: right;
 }
 
-.mininav .search-container button:hover {
-  background: #ccc;
-}
-
 .mininav input[type=text] {
   padding: 6px;
   border: none;
@@ -71,4 +67,8 @@
   font-size: 17px;
   border: none;
   cursor: pointer;
+}
+
+.mininav .search-container button:hover {
+  background: #ccc;
 }
