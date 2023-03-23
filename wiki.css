@@ -42,22 +42,3 @@
   font-size: 14px;
   font-family: Arial, sans-serif;
 }
-
-/* hover (mininav) */
-.mininav a:hover {
-  color: #8d5fe3;
-}
-
-/* search */
-.mininav .search-container {
-  float: right;
-}
-
-.mininav input[type=text] {
-  padding: 3px;
-  border: none;
-}
-
-.mininav .search-container button:hover {
-  background: #ccc;
-}
