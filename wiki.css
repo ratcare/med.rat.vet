@@ -42,3 +42,8 @@
   font-size: 14px;
   font-family: Arial, sans-serif;
 }
+
+/* hover */
+.mininav a:hover {
+  color: #8d5fe3;
+}
